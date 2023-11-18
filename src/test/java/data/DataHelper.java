@@ -13,7 +13,7 @@ public class DataHelper {
     }
 
     public static VerificationCode getVerificationCode() {
-        return new VerificationCode("1234");
+        return new VerificationCode("12345");
     }
 
     public static CardInfo getFirstCardInfo() {
